@@ -15,7 +15,7 @@
 - ❓ Ask me about **React, TypeScript, Next.js, Tailwind CSS, React Native, Linux, Python, Django**  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I am building an AI application 😆
   
 
 <br/>  
