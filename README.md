@@ -15,7 +15,7 @@
 - ❓ Ask me about **React, TypeScript, Next.js, Tailwind CSS, React Native, Linux, Python, Django**  
   
 
-- ⚡ Fun fact: I am building an AI application 😆
+- ⚡ Fun fact: I am building a handy AI tool called [ccontext](https://github.com/NicolasArnouts/ccontext)
   
 
 <br/>  
