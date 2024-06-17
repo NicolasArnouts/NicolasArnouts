@@ -3,13 +3,13 @@
 </div>  
   
 
-### <h1 align="center">I'm Nicolas, an aspiring full-stack web & mobile developer 👨‍💻</h1>  
+### <h1 align="center">I'm Nicolas, a freelance full-stack web & mobile developer 👨‍💻</h1>  
 
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 -->  
 
-- 🌱 I’m currently learning **[FullStackOpen](https://fullstackopen.com/en/)** and **[Uxcel - UI/UX design course](https://uxcel.com/)**  
+- 🌱 I’m currently learning LLM's, RAG and vector databases! Next.js + Tailwind CSS is ❤️
   
 
 - ❓ Ask me about **React, TypeScript, Next.js, Tailwind CSS, React Native, Linux, Python, Django**  
